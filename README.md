@@ -1,6 +1,6 @@
 ### Hi there 👋 - I'm a FullStack web developer
 
-This is ZeroCrazy Im from Spain 🇪🇸 and I love solving problems 😄
+This character here is ZeroCrazy and he currently resides in Spain. He loves self-learning and loves to solve problems. 😄
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@codetech.es) [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://codetech.es/cv-github.pdf) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeroCrazy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/daniel98gd)
 [![Codetech](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://codetech.es?rel=github)
