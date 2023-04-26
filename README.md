@@ -1,6 +1,6 @@
 ### Hola 👋 - Soy un desarrollador... ¿junior o senior? 🤔
 
-👈 Esta person de aquí por internet se apoda ZeroCrazy pero su nombre es Daniel. Actualmente tiene 25 años y vive en España, Barcelona.
+👈 Actualmente tengo 25 años y resido en España, Barcelona.
 
 👨‍💻 Cuando tenía 9 años, experimenté por primera vez el "Inspeccionar código" de una página web (entré por error) y cuando vi el lenguaje y lo extenso que era la programación, me embarqué en una aventura de auto aprendizaje de distintas plataformas, aplicaciones y lenguajes de desarrollo. Hoy por hoy, continúo siendo autodidacto y extendiendo mis virtudes como programador en proyectos.
 
