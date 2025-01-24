@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/daniel98gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel98gd" height="30" width="40" /></a>
 <a href="https://fb.com/codeteches" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="codeteches" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel98gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel98gd" height="30" width="40" /></a>
-<a href="https://discord.gg/https://codetech.es/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://codetech.es/discord" height="30" width="40" /></a>
+<a href="https://codetech.es/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://codetech.es/discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
